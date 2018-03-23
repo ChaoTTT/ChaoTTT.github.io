@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome ChaoTTT website
+## 欢迎来到超哥的博客
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+这里刚开始搭建，后面会有很多有意思的东西。
